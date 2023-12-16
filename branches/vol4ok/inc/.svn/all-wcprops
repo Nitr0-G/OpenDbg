@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/44/branches/vol4ok/inc
+END
+defines.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/44/branches/vol4ok/inc/defines.h
+END
+dbgutils.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/44/branches/vol4ok/inc/dbgutils.h
+END
+inttypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/44/branches/vol4ok/inc/inttypes.h
+END
+dbgconst.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/44/branches/vol4ok/inc/dbgconst.h
+END
+stdint.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/44/branches/vol4ok/inc/stdint.h
+END
+dbgsym.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/44/branches/vol4ok/inc/dbgsym.h
+END
+dbgapi.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/44/branches/vol4ok/inc/dbgapi.h
+END
+dbg_def.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/44/branches/vol4ok/inc/dbg_def.h
+END

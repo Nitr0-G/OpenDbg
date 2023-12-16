@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/143/branches/minidbg/src/tracer
+END
+types.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/143/branches/minidbg/src/tracer/types.h
+END
+BreakpointsManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/143/branches/minidbg/src/tracer/BreakpointsManager.cpp
+END
+Thread.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/143/branches/minidbg/src/tracer/Thread.h
+END
+Process.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/143/branches/minidbg/src/tracer/Process.cpp
+END
+tracer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/143/branches/minidbg/src/tracer/tracer.cpp
+END
+BreakpointsManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/143/branches/minidbg/src/tracer/BreakpointsManager.h
+END
+Process.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/143/branches/minidbg/src/tracer/Process.h
+END
+tracer.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/143/branches/minidbg/src/tracer/tracer.h
+END
+exceptions.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/143/branches/minidbg/src/tracer/exceptions.h
+END
+tracer.vcxproj
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/143/branches/minidbg/src/tracer/tracer.vcxproj
+END
+tracer.sln
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/133/branches/minidbg/src/tracer/tracer.sln
+END
+breakpoint.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/143/branches/minidbg/src/tracer/breakpoint.cpp
+END
+stdafx.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/133/branches/minidbg/src/tracer/stdafx.h
+END
+tracer.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/133/branches/minidbg/src/tracer/tracer.vcproj
+END
+ThreadManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/143/branches/minidbg/src/tracer/ThreadManager.cpp
+END
+Breakpoint.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/143/branches/minidbg/src/tracer/Breakpoint.h
+END
+Thread.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/143/branches/minidbg/src/tracer/Thread.cpp
+END
+ThreadManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/143/branches/minidbg/src/tracer/ThreadManager.h
+END

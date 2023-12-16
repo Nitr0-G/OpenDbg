@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/144/branches/minidbg/src/ui
+END
+cpuwindow.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/133/branches/minidbg/src/ui/cpuwindow.h
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/143/branches/minidbg/src/ui/main.cpp
+END
+ui.vcxproj
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/143/branches/minidbg/src/ui/ui.vcxproj
+END
+resource.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/143/branches/minidbg/src/ui/resource.h
+END
+stackwindow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/143/branches/minidbg/src/ui/stackwindow.cpp
+END
+stdafx.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/133/branches/minidbg/src/ui/stdafx.h
+END
+cliwindow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/133/branches/minidbg/src/ui/cliwindow.cpp
+END
+ui.rc
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/144/branches/minidbg/src/ui/ui.rc
+END
+stackwindow.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/143/branches/minidbg/src/ui/stackwindow.h
+END
+cliwindow.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/133/branches/minidbg/src/ui/cliwindow.h
+END
+regwindow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/143/branches/minidbg/src/ui/regwindow.cpp
+END
+main_window.ui
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/133/branches/minidbg/src/ui/main_window.ui
+END
+logwindow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/143/branches/minidbg/src/ui/logwindow.cpp
+END
+ngdbg.ico
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/143/branches/minidbg/src/ui/ngdbg.ico
+END
+regwindow.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/143/branches/minidbg/src/ui/regwindow.h
+END
+breakwindow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/143/branches/minidbg/src/ui/breakwindow.cpp
+END
+mainwindow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/143/branches/minidbg/src/ui/mainwindow.cpp
+END
+main_window.qrc
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/143/branches/minidbg/src/ui/main_window.qrc
+END
+logwindow.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/143/branches/minidbg/src/ui/logwindow.h
+END
+cpuwindow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/133/branches/minidbg/src/ui/cpuwindow.cpp
+END
+mainwindow.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/143/branches/minidbg/src/ui/mainwindow.h
+END
+breakwindow.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/143/branches/minidbg/src/ui/breakwindow.h
+END

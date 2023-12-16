@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/44/branches/vol4ok/lib
+END
+cadt.lib
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/44/branches/vol4ok/lib/cadt.lib
+END
+cadt.dll
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/44/branches/vol4ok/lib/cadt.dll
+END
+tracer.lib
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/44/branches/vol4ok/lib/tracer.lib
+END
+disasm.dll
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/44/branches/vol4ok/lib/disasm.dll
+END

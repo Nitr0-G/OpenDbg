@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/44/branches/vol4ok/src/kernel/dbgapi
+END
+ntdll.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/44/branches/vol4ok/src/kernel/dbgapi/ntdll.h
+END
+dbgapi.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/44/branches/vol4ok/src/kernel/dbgapi/dbgapi.c
+END
+dbgapi.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/44/branches/vol4ok/src/kernel/dbgapi/dbgapi.vcproj
+END

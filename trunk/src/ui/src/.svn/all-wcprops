@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/120/trunk/src/ui/src
+END
+listview.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/9/trunk/src/ui/src/listview.cpp
+END
+bpframe.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/9/trunk/src/ui/src/bpframe.cpp
+END
+cpulistview.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/9/trunk/src/ui/src/cpulistview.cpp
+END
+stackframe.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/9/trunk/src/ui/src/stackframe.cpp
+END
+disasm.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/120/trunk/src/ui/src/disasm.cpp
+END
+threadframe.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/17/trunk/src/ui/src/threadframe.cpp
+END
+debugger.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/32/trunk/src/ui/src/debugger.cpp
+END
+regframe.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/17/trunk/src/ui/src/regframe.cpp
+END
+memframe.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/19/trunk/src/ui/src/memframe.cpp
+END
+modframe.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/17/trunk/src/ui/src/modframe.cpp
+END
+logframe.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/17/trunk/src/ui/src/logframe.cpp
+END
+childframe.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/17/trunk/src/ui/src/childframe.cpp
+END
+mainframe.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/17/trunk/src/ui/src/mainframe.cpp
+END
+utils.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/9/trunk/src/ui/src/utils.cpp
+END
+cpuframe.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/17/trunk/src/ui/src/cpuframe.cpp
+END
+events.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/17/trunk/src/ui/src/events.cpp
+END

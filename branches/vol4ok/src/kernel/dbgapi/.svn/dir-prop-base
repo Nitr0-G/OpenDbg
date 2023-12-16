@@ -1,0 +1,8 @@
+K 10
+svn:ignore
+V 50
+dbgapi.vcproj.MOTH-ZONE.ROOT.user
+Debug
+ngdbg.ini
+
+END

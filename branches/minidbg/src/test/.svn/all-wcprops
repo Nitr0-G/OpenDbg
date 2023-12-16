@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/143/branches/minidbg/src/test
+END
+breakpoint.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/133/branches/minidbg/src/test/breakpoint.h
+END
+tracer.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/143/branches/minidbg/src/test/tracer.h
+END
+test.vcxproj
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/143/branches/minidbg/src/test/test.vcxproj
+END
+precompiled.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/133/branches/minidbg/src/test/precompiled.h
+END
+test.sln
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/133/branches/minidbg/src/test/test.sln
+END
+test_cases.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/143/branches/minidbg/src/test/test_cases.cpp
+END
+breakpoint.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/133/branches/minidbg/src/test/breakpoint.cpp
+END
+tracer_error.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/133/branches/minidbg/src/test/tracer_error.h
+END
+test.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/133/branches/minidbg/src/test/test.vcproj
+END
+tracer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/143/branches/minidbg/src/test/tracer.cpp
+END

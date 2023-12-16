@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 26
+/svn/!svn/ver/73/trunk/inc
+END
+pdbparser.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/73/trunk/inc/pdbparser.h
+END
+dbgconst.h
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/40/trunk/inc/dbgconst.h
+END
+stdint.h
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/40/trunk/inc/stdint.h
+END
+dbgapi.h
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/73/trunk/inc/dbgapi.h
+END
+dbg_def.h
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/45/trunk/inc/dbg_def.h
+END
+defines.h
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/72/trunk/inc/defines.h
+END
+dbgutils.h
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/37/trunk/inc/dbgutils.h
+END
+inttypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/40/trunk/inc/inttypes.h
+END

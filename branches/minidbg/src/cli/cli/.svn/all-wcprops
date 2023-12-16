@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/143/branches/minidbg/src/cli/cli
+END
+tracer.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/143/branches/minidbg/src/cli/cli/tracer.h
+END
+cli.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/133/branches/minidbg/src/cli/cli/cli.cpp
+END
+cli.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/133/branches/minidbg/src/cli/cli/cli.vcproj
+END
+targetver.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/133/branches/minidbg/src/cli/cli/targetver.h
+END
+debugger_cli.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/133/branches/minidbg/src/cli/cli/debugger_cli.cpp
+END
+stdafx.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/133/branches/minidbg/src/cli/cli/stdafx.h
+END
+cli.vcxproj
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/143/branches/minidbg/src/cli/cli/cli.vcxproj
+END
+debugger_cli.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/143/branches/minidbg/src/cli/cli/debugger_cli.h
+END

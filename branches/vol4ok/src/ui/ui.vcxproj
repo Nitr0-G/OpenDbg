@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <VCProjectVersion>17.0</VCProjectVersion>
+    <ProjectGuid>{907ADCAE-EC02-4D82-9637-751B80E53250}</ProjectGuid>
+    <RootNamespace>ui</RootNamespace>
+    <Keyword>Win32Proj</Keyword>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <PlatformToolset>v143</PlatformToolset>
+    <CharacterSet>NotSet</CharacterSet>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <PlatformToolset>v143</PlatformToolset>
+    <CharacterSet>NotSet</CharacterSet>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup>
+    <_ProjectFileVersion>17.0.32505.173</_ProjectFileVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <OutDir>$(SolutionDir)$(Configuration)\</OutDir>
+    <IntDir>$(Configuration)\</IntDir>
+    <LinkIncremental>true</LinkIncremental>
+    <GenerateManifest>false</GenerateManifest>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <OutDir>$(SolutionDir)$(Configuration)\</OutDir>
+    <IntDir>$(Configuration)\</IntDir>
+    <LinkIncremental>false</LinkIncremental>
+    <GenerateManifest>false</GenerateManifest>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <BuildLog>
+      <Path>$(OutDir)obj\$(ProjectName)\BuildLog.htm</Path>
+    </BuildLog>
+    <ClCompile>
+      <Optimization>MinSpace</Optimization>
+      <InlineFunctionExpansion>AnySuitable</InlineFunctionExpansion>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <FavorSizeOrSpeed>Size</FavorSizeOrSpeed>
+      <WholeProgramOptimization>false</WholeProgramOptimization>
+      <AdditionalIncludeDirectories>$(BOOST_ROOT);$(WXWIN)\include;$(ProjectDir)\inc;$(SolutionDir)../../inc;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <PreprocessorDefinitions>WIN32;_DEBUG;_WINDOWS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <MinimalRebuild>false</MinimalRebuild>
+      <BasicRuntimeChecks>Default</BasicRuntimeChecks>
+      <RuntimeLibrary>MultiThreadedDebug</RuntimeLibrary>
+      <BufferSecurityCheck>true</BufferSecurityCheck>
+      <PrecompiledHeader />
+      <ObjectFileName>$(OutDir)obj\$(ProjectName)\</ObjectFileName>
+      <ProgramDataBaseFileName>$(OutDir)obj\$(ProjectName)\vc80.pdb</ProgramDataBaseFileName>
+      <XMLDocumentationFileName>$(OutDir)obj\$(ProjectName)\</XMLDocumentationFileName>
+      <WarningLevel>Level3</WarningLevel>
+      <DebugInformationFormat />
+    </ClCompile>
+    <ResourceCompile>
+      <ResourceOutputFileName>"$(OutDir)obj/$(ProjectName)/%(Filename).res"</ResourceOutputFileName>
+    </ResourceCompile>
+    <Link>
+      <AdditionalDependencies>comctl32.lib;uuid.lib;rpcrt4.lib;advapi32.lib;wxbase28d.lib;wxmsw28d_core.lib;wxmsw28d_aui.lib;wxmsw28d_adv.lib;wxmsw28d_richtext.lib;wxmsw28d_html.lib;wxpngd.lib;wxzlibd.lib;cadt.lib;tracer.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <OutputFile>"$(SolutionDir)../../bin/$(Configuration)/$(ProjectName).exe"</OutputFile>
+      <AdditionalLibraryDirectories>$(WXWIN)/lib/vc_lib/;$(SolutionDir)../../lib;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <ManifestFile>$(OutDir)obj\$(ProjectName)\$(TargetFileName).intermediate.manifest</ManifestFile>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <ProgramDatabaseFile>"$(SolutionDir)../../bin/$(Configuration)/$(TargetName).pdb"</ProgramDatabaseFile>
+      <SubSystem>Windows</SubSystem>
+      <TargetMachine>MachineX86</TargetMachine>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <BuildLog>
+      <Path>$(OutDir)obj\$(ProjectName)\BuildLog.htm</Path>
+    </BuildLog>
+    <ClCompile>
+      <Optimization>MinSpace</Optimization>
+      <InlineFunctionExpansion>AnySuitable</InlineFunctionExpansion>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <FavorSizeOrSpeed>Size</FavorSizeOrSpeed>
+      <WholeProgramOptimization>false</WholeProgramOptimization>
+      <AdditionalIncludeDirectories>$(BOOST_ROOT);$(WXWIN)\include;$(ProjectDir)\inc;$(SolutionDir)../../inc;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <PreprocessorDefinitions>WIN32;NDEBUG;_WINDOWS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <RuntimeLibrary>MultiThreaded</RuntimeLibrary>
+      <BufferSecurityCheck>true</BufferSecurityCheck>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <PrecompiledHeader />
+      <ObjectFileName>$(OutDir)obj\$(ProjectName)\</ObjectFileName>
+      <ProgramDataBaseFileName>$(OutDir)obj\$(ProjectName)\vc80.pdb</ProgramDataBaseFileName>
+      <XMLDocumentationFileName>$(OutDir)obj\$(ProjectName)\</XMLDocumentationFileName>
+      <WarningLevel>Level3</WarningLevel>
+      <DebugInformationFormat />
+    </ClCompile>
+    <ResourceCompile>
+      <ResourceOutputFileName>"$(OutDir)obj/$(ProjectName)/%(Filename).res"</ResourceOutputFileName>
+    </ResourceCompile>
+    <Link>
+      <AdditionalDependencies>comctl32.lib;uuid.lib;rpcrt4.lib;advapi32.lib;wxbase28.lib;wxmsw28_core.lib;wxmsw28_aui.lib;wxmsw28_adv.lib;wxmsw28_richtext.lib;wxmsw28_html.lib;wxpng.lib;wxzlib.lib;cadt.lib;tracer.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <OutputFile>"$(SolutionDir)../../bin/$(Configuration)/$(ProjectName).exe"</OutputFile>
+      <AdditionalLibraryDirectories>$(WXWIN)/lib/vc_lib/;$(SolutionDir)../../lib;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <ProgramDatabaseFile>"$(SolutionDir)../../bin/$(Configuration)/$(TargetName).pdb"</ProgramDatabaseFile>
+      <SubSystem>Windows</SubSystem>
+      <OptimizeReferences>true</OptimizeReferences>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <TargetMachine>MachineX86</TargetMachine>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <ClCompile Include="src\bpframe.cpp" />
+    <ClCompile Include="src\childframe.cpp" />
+    <ClCompile Include="src\cpuframe.cpp" />
+    <ClCompile Include="src\cpulistview.cpp" />
+    <ClCompile Include="src\debugger.cpp" />
+    <ClCompile Include="src\disasm.cpp" />
+    <ClCompile Include="src\events.cpp" />
+    <ClCompile Include="src\listview.cpp" />
+    <ClCompile Include="src\logframe.cpp" />
+    <ClCompile Include="src\mainframe.cpp" />
+    <ClCompile Include="src\memctrl\column.cpp" />
+    <ClCompile Include="src\memctrl\memctrl.cpp" />
+    <ClCompile Include="src\memframe.cpp" />
+    <ClCompile Include="src\modframe.cpp" />
+    <ClCompile Include="src\regframe.cpp" />
+    <ClCompile Include="src\stackframe.cpp" />
+    <ClCompile Include="src\threadframe.cpp" />
+    <ClCompile Include="src\utils.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="inc\bpframe.h" />
+    <ClInclude Include="inc\cadt.h" />
+    <ClInclude Include="inc\childframe.h" />
+    <ClInclude Include="inc\cpuframe.h" />
+    <ClInclude Include="inc\cpulistview.h" />
+    <ClInclude Include="inc\debugger.h" />
+    <ClInclude Include="inc\disasm.h" />
+    <ClInclude Include="inc\events.h" />
+    <ClInclude Include="inc\listview.h" />
+    <ClInclude Include="inc\logframe.h" />
+    <ClInclude Include="inc\mainframe.h" />
+    <ClInclude Include="inc\memctrl\column.h" />
+    <ClInclude Include="inc\memctrl\memctrl.h" />
+    <ClInclude Include="inc\memframe.h" />
+    <ClInclude Include="inc\modframe.h" />
+    <ClInclude Include="inc\ngtracerapi.h" />
+    <ClInclude Include="inc\precomp.h" />
+    <ClInclude Include="inc\regframe.h" />
+    <ClInclude Include="inc\resource.h" />
+    <ClInclude Include="inc\stackframe.h" />
+    <ClInclude Include="inc\threadframe.h" />
+    <ClInclude Include="inc\utils.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="inc\ui.rc" />
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

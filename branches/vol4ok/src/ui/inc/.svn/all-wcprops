@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/119/branches/vol4ok/src/ui/inc
+END
+logframe.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/44/branches/vol4ok/src/ui/inc/logframe.h
+END
+childframe.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/44/branches/vol4ok/src/ui/inc/childframe.h
+END
+ngtracerapi.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/44/branches/vol4ok/src/ui/inc/ngtracerapi.h
+END
+mainframe.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/44/branches/vol4ok/src/ui/inc/mainframe.h
+END
+utils.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/44/branches/vol4ok/src/ui/inc/utils.h
+END
+cpuframe.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/44/branches/vol4ok/src/ui/inc/cpuframe.h
+END
+events.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/44/branches/vol4ok/src/ui/inc/events.h
+END
+precomp.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/44/branches/vol4ok/src/ui/inc/precomp.h
+END
+listview.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/44/branches/vol4ok/src/ui/inc/listview.h
+END
+cadt.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/44/branches/vol4ok/src/ui/inc/cadt.h
+END
+bpframe.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/44/branches/vol4ok/src/ui/inc/bpframe.h
+END
+cpulistview.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/44/branches/vol4ok/src/ui/inc/cpulistview.h
+END
+stackframe.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/44/branches/vol4ok/src/ui/inc/stackframe.h
+END
+disasm.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/44/branches/vol4ok/src/ui/inc/disasm.h
+END
+threadframe.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/44/branches/vol4ok/src/ui/inc/threadframe.h
+END
+debugger.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/119/branches/vol4ok/src/ui/inc/debugger.h
+END
+resource.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/44/branches/vol4ok/src/ui/inc/resource.h
+END
+regframe.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/44/branches/vol4ok/src/ui/inc/regframe.h
+END
+memframe.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/44/branches/vol4ok/src/ui/inc/memframe.h
+END
+modframe.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/44/branches/vol4ok/src/ui/inc/modframe.h
+END
+ui.rc
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/44/branches/vol4ok/src/ui/inc/ui.rc
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/44/branches/vol4ok/lib/i386
+END
+ntdll.lib
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/44/branches/vol4ok/lib/i386/ntdll.lib
+END
+msvcrt.lib
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/44/branches/vol4ok/lib/i386/msvcrt.lib
+END

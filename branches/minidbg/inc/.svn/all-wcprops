@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/144/branches/minidbg/inc
+END
+dbg_def.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/133/branches/minidbg/inc/dbg_def.h
+END
+ntdll.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/133/branches/minidbg/inc/ntdll.h
+END
+defines.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/133/branches/minidbg/inc/defines.h
+END
+dbgutils.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/133/branches/minidbg/inc/dbgutils.h
+END
+dia2.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/133/branches/minidbg/inc/dia2.h
+END
+cvconst.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/133/branches/minidbg/inc/cvconst.h
+END
+inttypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/133/branches/minidbg/inc/inttypes.h
+END
+tracer.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/143/branches/minidbg/inc/tracer.h
+END
+diacreate.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/133/branches/minidbg/inc/diacreate.h
+END
+udis86.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/133/branches/minidbg/inc/udis86.h
+END
+pdbparser.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/133/branches/minidbg/inc/pdbparser.h
+END
+dbgapi.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/143/branches/minidbg/inc/dbgapi.h
+END
+tracer_error.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/133/branches/minidbg/inc/tracer_error.h
+END
+dbgconst.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/133/branches/minidbg/inc/dbgconst.h
+END
+stdint.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/133/branches/minidbg/inc/stdint.h
+END

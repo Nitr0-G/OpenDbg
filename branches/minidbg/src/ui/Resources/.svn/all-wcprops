@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/143/branches/minidbg/src/ui/Resources
+END
+RESTART.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/143/branches/minidbg/src/ui/Resources/RESTART.bmp
+END
+RUN.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/143/branches/minidbg/src/ui/Resources/RUN.bmp
+END
+CLOSE.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/143/branches/minidbg/src/ui/Resources/CLOSE.bmp
+END
+STEPOVER.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/143/branches/minidbg/src/ui/Resources/STEPOVER.bmp
+END
+OPEN.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/143/branches/minidbg/src/ui/Resources/OPEN.bmp
+END
+STEPIN.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/143/branches/minidbg/src/ui/Resources/STEPIN.bmp
+END

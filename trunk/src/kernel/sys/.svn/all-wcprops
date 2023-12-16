@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/72/trunk/src/kernel/sys
+END
+code_hook.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/72/trunk/src/kernel/sys/code_hook.h
+END
+misc.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/9/trunk/src/kernel/sys/misc.h
+END
+ldasm.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/9/trunk/src/kernel/sys/ldasm.c
+END
+driver.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/9/trunk/src/kernel/sys/driver.h
+END
+ldasm.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/9/trunk/src/kernel/sys/ldasm.h
+END
+regio.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/72/trunk/src/kernel/sys/regio.c
+END
+channel.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/72/trunk/src/kernel/sys/channel.c
+END
+sdt_hook.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/72/trunk/src/kernel/sys/sdt_hook.c
+END
+syscall.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/72/trunk/src/kernel/sys/syscall.c
+END
+dbg_item.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/72/trunk/src/kernel/sys/dbg_item.c
+END
+regio.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/9/trunk/src/kernel/sys/regio.h
+END
+driver.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/54/trunk/src/kernel/sys/driver.vcproj
+END
+channel.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/45/trunk/src/kernel/sys/channel.h
+END
+sdt_hook.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/9/trunk/src/kernel/sys/sdt_hook.h
+END
+syscall.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/9/trunk/src/kernel/sys/syscall.h
+END
+dbg_item.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/72/trunk/src/kernel/sys/dbg_item.h
+END
+extdef.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/9/trunk/src/kernel/sys/extdef.h
+END
+debug.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/72/trunk/src/kernel/sys/debug.c
+END
+pedef.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/9/trunk/src/kernel/sys/pedef.h
+END
+code_hook.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/72/trunk/src/kernel/sys/code_hook.c
+END
+driver.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/72/trunk/src/kernel/sys/driver.c
+END
+debug.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/40/trunk/src/kernel/sys/debug.h
+END
+misc.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/72/trunk/src/kernel/sys/misc.c
+END

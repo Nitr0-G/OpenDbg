@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/133/branches/minidbg/src/disasm/libudis86
+END
+decode.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/133/branches/minidbg/src/disasm/libudis86/decode.h
+END
+syn.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/133/branches/minidbg/src/disasm/libudis86/syn.c
+END
+types.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/133/branches/minidbg/src/disasm/libudis86/types.h
+END
+extern.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/133/branches/minidbg/src/disasm/libudis86/extern.h
+END
+syn.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/133/branches/minidbg/src/disasm/libudis86/syn.h
+END
+opgen.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/133/branches/minidbg/src/disasm/libudis86/opgen.py
+END
+syn-att.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/133/branches/minidbg/src/disasm/libudis86/syn-att.c
+END
+itab.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/133/branches/minidbg/src/disasm/libudis86/itab.c
+END
+input.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/133/branches/minidbg/src/disasm/libudis86/input.c
+END
+udis86.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/133/branches/minidbg/src/disasm/libudis86/udis86.c
+END
+syn-intel.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/133/branches/minidbg/src/disasm/libudis86/syn-intel.c
+END
+decode.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/133/branches/minidbg/src/disasm/libudis86/decode.c
+END
+input.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/133/branches/minidbg/src/disasm/libudis86/input.h
+END
+itab.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/133/branches/minidbg/src/disasm/libudis86/itab.h
+END

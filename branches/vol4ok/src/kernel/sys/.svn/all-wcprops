@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/44/branches/vol4ok/src/kernel/sys
+END
+code_hook.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/44/branches/vol4ok/src/kernel/sys/code_hook.h
+END
+misc.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/44/branches/vol4ok/src/kernel/sys/misc.h
+END
+ldasm.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/44/branches/vol4ok/src/kernel/sys/ldasm.c
+END
+driver.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/44/branches/vol4ok/src/kernel/sys/driver.h
+END
+ldasm.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/44/branches/vol4ok/src/kernel/sys/ldasm.h
+END
+regio.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/44/branches/vol4ok/src/kernel/sys/regio.c
+END
+channel.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/44/branches/vol4ok/src/kernel/sys/channel.c
+END
+sdt_hook.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/44/branches/vol4ok/src/kernel/sys/sdt_hook.c
+END
+syscall.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/44/branches/vol4ok/src/kernel/sys/syscall.c
+END
+dbg_item.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/44/branches/vol4ok/src/kernel/sys/dbg_item.c
+END
+regio.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/44/branches/vol4ok/src/kernel/sys/regio.h
+END
+driver.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/44/branches/vol4ok/src/kernel/sys/driver.vcproj
+END
+channel.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/44/branches/vol4ok/src/kernel/sys/channel.h
+END
+sdt_hook.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/44/branches/vol4ok/src/kernel/sys/sdt_hook.h
+END
+syscall.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/44/branches/vol4ok/src/kernel/sys/syscall.h
+END
+dbg_item.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/44/branches/vol4ok/src/kernel/sys/dbg_item.h
+END
+extdef.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/44/branches/vol4ok/src/kernel/sys/extdef.h
+END
+debug.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/44/branches/vol4ok/src/kernel/sys/debug.c
+END
+pedef.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/44/branches/vol4ok/src/kernel/sys/pedef.h
+END
+code_hook.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/44/branches/vol4ok/src/kernel/sys/code_hook.c
+END
+driver.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/44/branches/vol4ok/src/kernel/sys/driver.c
+END
+debug.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/44/branches/vol4ok/src/kernel/sys/debug.h
+END
+misc.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/44/branches/vol4ok/src/kernel/sys/misc.c
+END

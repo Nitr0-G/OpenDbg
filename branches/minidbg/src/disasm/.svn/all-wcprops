@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/143/branches/minidbg/src/disasm
+END
+udis86.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/133/branches/minidbg/src/disasm/udis86.pdf
+END
+disasm.vcxproj
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/143/branches/minidbg/src/disasm/disasm.vcxproj
+END
+disasm.sln
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/133/branches/minidbg/src/disasm/disasm.sln
+END
+disasm.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/133/branches/minidbg/src/disasm/disasm.vcproj
+END
+disasm.suo
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/133/branches/minidbg/src/disasm/disasm.suo
+END
+udis86.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/133/branches/minidbg/src/disasm/udis86.h
+END
